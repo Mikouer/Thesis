@@ -1,0 +1,6 @@
+train: D:/Garrus/Thesis/Coding/images/train  # 指定训练集图片的路径
+val: D:/Garrus/Thesis/Coding/images/val      # 指定验证集图片的路径
+
+nc: 3  # 假设您有3个类别
+names: ['donkey', 'zebra', 'horse']  # 指定您的类别名称
+
